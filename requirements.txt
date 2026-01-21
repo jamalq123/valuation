@@ -3,3 +3,4 @@ numpy
 pandas
 matplotlib.pyplot
 numpy_financial
+matplotlib
